@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 47ea46f72b4a2094eb57c52b7c8a6ca9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - listMatches: {instanceID: 0}
+  - createMatch: {instanceID: 0}
+  - list: {fileID: 6567010692046176108, guid: 2dc91bb8516c1c6479fb64d5c3fa0976, type: 3}
+  - messageSearch: {instanceID: 0}
+  - nameServer: {instanceID: 0}
+  - maxCount: {instanceID: 0}
+  - isPrivate: {instanceID: 0}
+  - passwordToggle: {instanceID: 0}
+  - password: {instanceID: 0}
+  - messageCreate: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: cf05be897fd610b4680a921352ce3586
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - indicatorTurn: {fileID: 6618183254760873077, guid: 120820d150512b446ab5e4decc70e754,
+      type: 3}
+  - attack: {fileID: 2100000, guid: 176db0a8fc31fe444a79eba96f975a1a, type: 2}
+  - defense: {fileID: 2100000, guid: 095386931c867fe40ad034164e0591be, type: 2}
+  - wictoryText: {fileID: 1609153236686861152, guid: d9173aec7e6bf0c4e8b2164c479c6268,
+      type: 3}
+  - bot: {fileID: 6666325195993742294, guid: 0804d0af000da2b41ba9503d06c5d146, type: 3}
+  - onlinePlayer: {instanceID: 0}
+  - addBots: {fileID: 6553532663725631557, guid: 5ef2f9df751079a4b8c94af7cbcebddb,
+      type: 3}
+  - onlinePlayerPrefab: {fileID: 7164201241669908287, guid: 3beda2aca6d782645800d9fb250abf1f,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
